@@ -9,7 +9,7 @@ There are 4 tables in this dataset :
 
 Technologies & Techniques Used:
 
-**SQL**: Extracted and transformed raw data for analysis.
+**Power Query**: Extracted and transformed raw data for analysis.
 
 **Power BI & DAX**: Built dynamic dashboards and calculated key metrics.
 
