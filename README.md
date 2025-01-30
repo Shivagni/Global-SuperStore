@@ -10,8 +10,11 @@ There are 4 tables in this dataset :
 Technologies & Techniques Used:
 
 **SQL**: Extracted and transformed raw data for analysis.
+
 **Power BI & DAX**: Built dynamic dashboards and calculated key metrics.
+
 **ETL & Data Cleaning**: Used Power Query for efficient data preparation and transformation.
+
 **Data Modeling**: Designed robust relationships for seamless analysis.
 
 Key Analyses:
